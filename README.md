@@ -1,1 +1,5 @@
 # Old-MacOS-Downloader
+ーーーーー日本語ーーーーー
+OpenCoreLegacyPatcherでダウンロードできないバージョンのmacOSをダウンロードします。
+これは、完全に正規のインストーラーであり、Mojve patcherのような改造版インストーラーではございません。
+iDeneb v1.3(iso)のダウンロードもあるため、iDenebを入手したい方にもおすすめです。
